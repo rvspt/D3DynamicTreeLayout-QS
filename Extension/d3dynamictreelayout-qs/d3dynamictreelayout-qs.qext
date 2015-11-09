@@ -1,0 +1,16 @@
+{
+	"name": "d3dynamictreelayout-qs",
+	"description": "An extension to represent an hierarchical tree, using D3",
+	"type": "visualization",
+	"version": "1.0.0",
+	"icon": "extension",
+	"preview": "preview.png",
+	"author": "Renato Vieira - rvr@qlik.com",
+	"homepage": "",
+	"keywords": "qlik-sense, visualization, tree, d3",
+	"license": "",
+	"repository": "The MIT License (MIT)",
+	"dependencies": {
+		"qlik-sense": ">=1.0.x"
+	}
+}
