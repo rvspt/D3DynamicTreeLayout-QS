@@ -1,5 +1,5 @@
 # D3DynamicTreeLayout-QS
-Qlik Sense extension display an Hierarchical Tree using D3
+Qlik Sense extension that displays an Hierarchical Tree using D3, with user interaction.
 
 Tested with Qlik Sense 2.1.1.
 
