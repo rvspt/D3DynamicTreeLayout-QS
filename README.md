@@ -10,5 +10,12 @@ Features included are:
   * Tooltips on Mouse Over for additional info - tooltips can be plain text of HTML based for custom look & feel
   * Boxes can display 1 line of additional info
   * Nodes are selectable - selected node will also select related child nodes
+  * Nodes can have indepent colors
+  * Control the links colors independently
 
 An example and tutorial app can be found in the 'App Example and Tutorial' folder.
+
+### Release History
+ * v1 - Initial relase of the extension
+ * v1.1 - Added independent coloring for nodes and links
+ 
