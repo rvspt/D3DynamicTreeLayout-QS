@@ -18,4 +18,10 @@ An example and tutorial app can be found in the 'App Example and Tutorial' folde
 ### Release History
  * v1 - Initial relase of the extension
  * v1.1 - Added independent coloring for nodes and links
- 
+
+
+![alt text](./Screenshots%20Example/Screenshot-1.PNG?raw=true) 
+![alt text](./Screenshots%20Example/Screenshot-3.png?raw=true) 
+![alt text](./Screenshots%20Example/Screenshot-4.png?raw=true) 
+![alt text](./Screenshots%20Example/Screenshot-5.png?raw=true) 
+![alt text](./Screenshots%20Example/Screenshot-7.PNG?raw=true)
