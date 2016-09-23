@@ -29,4 +29,3 @@ An example and tutorial app can be found in the 'App Example and Tutorial' folde
 ![alt text](./Screenshots%20Example/Screenshot-4.png?raw=true) 
 ![alt text](./Screenshots%20Example/Screenshot-5.png?raw=true) 
 ![alt text](./Screenshots%20Example/Screenshot-7.PNG?raw=true)
->>>>>>> origin/master
