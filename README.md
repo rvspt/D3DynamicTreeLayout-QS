@@ -18,4 +18,5 @@ An example and tutorial app can be found in the 'App Example and Tutorial' folde
 ### Release History
  * v1 - Initial relase of the extension
  * v1.1 - Added independent coloring for nodes and links
- 
+ * v1.1.1 - Minor update - added some verifications before loading the tree. If something wrong is detected it
+   displays a warning in the extension's placeholder and avoids loading the tree.
