@@ -20,6 +20,7 @@ An example and tutorial app can be found in the 'App Example and Tutorial' folde
  * v1.1 - Added independent coloring for nodes and links
  * v1.1.1 - Minor update - added some verifications before loading the tree. If something wrong is detected it
    displays a warning in the extension's placeholder and avoids loading the tree.
+ * v1.2 - Added 2 new orientations for the tree - right to left and bottom up
 
 
 ![alt text](./Screenshots%20Example/Screenshot-1.PNG?raw=true) 
