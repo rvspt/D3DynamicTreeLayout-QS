@@ -22,6 +22,7 @@ An example and tutorial app can be found in the 'App Example and Tutorial' folde
    displays a warning in the extension's placeholder and avoids loading the tree.
  * v1.2 - Added 2 new orientations for the tree - right to left and bottom up
  * v1.2.1 - Added a new verifications before loading the tree.
+ * v1.2.2 - Fixed an issue that would restrain the rendering in Qlik Sense v3.2
 
 
 ![alt text](./Screenshots%20Example/Screenshot-1.PNG?raw=true) 
