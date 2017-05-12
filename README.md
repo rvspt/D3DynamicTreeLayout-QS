@@ -1,7 +1,7 @@
 # D3DynamicTreeLayout-QS
 Qlik Sense extension that displays an Hierarchical Tree using D3, with user interaction.
 
-Tested with Qlik Sense 2.1.1.
+Tested with Qlik Sense 3.2.4.
 
 Features included are:
   * Horizontal and Vertical Orentation
@@ -23,6 +23,8 @@ An example and tutorial app can be found in the 'App Example and Tutorial' folde
  * v1.2 - Added 2 new orientations for the tree - right to left and bottom up
  * v1.2.1 - Added a new verifications before loading the tree.
  * v1.2.2 - Fixed an issue that would restrain the rendering in Qlik Sense v3.2
+ * v1.2.3 - Fixed an issue that prevented the creation of the extension from scratch on v3.2
+ * v1.2.4 - Fixed an issue that would prevent the rendering of the extension in Qlik Sense v3.2.3
 
 
 ![alt text](./Screenshots%20Example/Screenshot-1.PNG?raw=true) 
