@@ -26,6 +26,9 @@ An example and tutorial app can be found in the 'App Example and Tutorial' folde
  * v1.2.3 - Fixed an issue that prevented the creation of the extension from scratch on v3.2
  * v1.2.4 - Fixed an issue that would prevent the rendering of the extension in Qlik Sense v3.2.3
  * v1.3 - Added Calculation Condition
+ * v1.3.1 Corrected 2 major bugs:
+ 		- Configuration of extension from scratch would pass on verification of Node Name specification in latest Qlik Sense releases;
+ 		- Selection of a node that would be on last depth level would not respond and select on application
 
 
 ![alt text](./Screenshots%20Example/Screenshot-1.PNG?raw=true) 
